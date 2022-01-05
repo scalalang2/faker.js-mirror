@@ -1,3 +1,5 @@
+# This is mirrored project from [faker.js](https://github.com/marak/Faker.js/). This is created because it seemed to have been hacked.
+
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
